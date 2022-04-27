@@ -12,8 +12,8 @@ With more time I would've loved to create different difficulty levels. I found t
 
 https://user-images.githubusercontent.com/34205423/164874416-f7d9f9a3-b922-48fd-8623-80f1ec57b1e3.mov
 
-
-
+INTERVIEW VIDEO:
+https://www.loom.com/share/e06e79721f9b426ab8655b23748ffc19
 
 
 ## What's in this project?
